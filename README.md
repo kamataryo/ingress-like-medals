@@ -6,7 +6,7 @@ Shdow shapes comes from mainly "http://kage-design.com/".
 ## Mie pref.
 |Name in en|Name in jp|Caracters|image|
 |:---------|:--------|:---------|:--:|
-|Kihoku town|_紀北町_|sunfish|![kihoku medal](city medals/kihoku.svg)|
+|Kihoku town|_紀北町_|sunfish|![kihoku medal](thumbs/kihoku.png)|
 |Kumano city|_熊野市_|lion rock|
 |Mihama city|_御浜町_|mikan(some kinds of orange)|
 |Kiho town|_紀宝町_|sea turtle|

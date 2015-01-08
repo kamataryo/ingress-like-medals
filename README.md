@@ -3,7 +3,6 @@ Ingress-like medals which describes symbolic characters(mainly animals or plants
 Shdow shapes comes from mainly "http://kage-design.com/".
 
 # contents
-## Mie pref.
 |Name in en|Name in jp|Caracters|image|
 |:---------|:--------|:---------|:--:|
 |Kihoku town|_紀北町_|sunfish|![kihoku medal](city medals/thumbs/kihoku.png)|

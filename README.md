@@ -4,9 +4,9 @@ Shdow shapes comes from mainly "http://kage-design.com/".
 
 # contents
 ## Mie pref.
-|Name in en|Name in jp|Caracters|
-|:---------|:--------|:---------|
-|Kihoku town|_紀北町_|sunfish|
+|Name in en|Name in jp|Caracters|image|
+|:---------|:--------|:---------|:--:|
+|Kihoku town|_紀北町_|sunfish|![kihoku medal](https://github.com/KamataRyo/ingress-like-medals/raw/master/city%20medals/kihoku.svg)|
 |Kumano city|_熊野市_|lion rock|
 |Mihama city|_御浜町_|mikan(some kinds of orange)|
 |Kiho town|_紀宝町_|sea turtle|

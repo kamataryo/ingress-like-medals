@@ -1,9 +1,9 @@
 # SVG of ingress-like-medals
 Ingress-like medals which describes symbolic characters(mainly animals or plants) for several cities in Japan.
-Shdow shapes comes from mainly "http://kage-design.com/".
+Shadow shapes comes from mainly "http://kage-design.com/".
 
 # contents
-|Name in en|Name in jp|Caracters|image|
+|Name in en.|Name in jp.|Characters|image|
 |:---------|:--------|:---------|:--:|
 |Kihoku town|_紀北町_|sunfish|![kihoku medal](city medals/thumbs/kihoku.png)|
 |Kumano city|_熊野市_|lion rock|![kumano medal](city medals/thumbs/kumano.png)|
